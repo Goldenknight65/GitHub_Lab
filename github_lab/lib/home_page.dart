@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
           Text('Abu_Mukhlef'),
           //part two
           Center(
-            child: Text("Mahdi ALhelal"),
+            child: Text("Abu_Mukhlef"),
           )
         ],
       ),
