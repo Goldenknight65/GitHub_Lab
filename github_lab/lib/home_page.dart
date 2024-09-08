@@ -11,6 +11,9 @@ class HomePage extends StatelessWidget {
           //part one
           Text('Abu_Mukhlef'),
           //part two
+          Center(
+            child: Text("Mahdi ALhelal"),
+          )
         ],
       ),
     );
